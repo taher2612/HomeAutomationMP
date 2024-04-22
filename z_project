@@ -1,0 +1,38 @@
+
+Vite is one 
+Create Vite app in react   
+```
+ npm create vite@latest
+```
+npm install react-router-dom
+
+add mui npm install @mui/material @emotion/react @emotion/style
+
+Create Home Furnise in React
+
+1  install react native 
+	npm install -g react-native-cli
+
+2 create the app 
+	npx react-native init Furnise
+
+3
+	npm install react-apexcharts apexcharts 
+
+unistall 
+npm uninstall -g react-native-cli
+npx react-native init projectname
+https://reactnative.dev/docs/environment-setup?guide=native
+
+Create Native conversion
+Add the navigation. following step to taken
+1. npm install @react-navigation/native
+2. npx expo install react-native-screens react-native-safe-area-context
+3. npm install react-navigation-stack
+4. npm install expo-cli  --global
+5. npm install @react-navigation/native @react-navigation/drawer react-native-reanimated react-native-gesture-handler react-native-screens
+
+
+
+
+
